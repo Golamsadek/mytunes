@@ -157,6 +157,7 @@ button.about_music_button:hover {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .gift_section {
   display: flex;
