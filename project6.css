@@ -233,6 +233,13 @@ button.about_music_button:hover {
 }
 
 @media (max-width: 786px) {
+  nav{
+    padding: auto 20px;
+  }
+  nav.container ul a{
+    display: flex;
+    gap: 50px;
+  }
   .home_section {
     background-image: url(pictures/hero_image.png);
     height: 50vh;
