@@ -370,4 +370,10 @@ button.about_music_button:hover {
   position: relative;
   top: 150px;
 }
+.icons,
+.fa-brands {
+  display: flex;
+  justify-content:left;
+  gap: 10px;
+}
 }
