@@ -238,7 +238,7 @@ button.about_music_button:hover {
   }
   nav.container ul {
     display: flex;
-    gap: 20px;
+    justify-content: space-between;
   }
   .home_section {
     background-image: url(pictures/hero_image.png);
